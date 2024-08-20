@@ -1,0 +1,16 @@
+C:\Users\m.maghrebi\Documents\Visual Studio 2022\C#\WpfInForm\WpfInForm\bin\Debug\WpfInForm.exe.config
+C:\Users\m.maghrebi\Documents\Visual Studio 2022\C#\WpfInForm\WpfInForm\bin\Debug\WpfInForm.exe
+C:\Users\m.maghrebi\Documents\Visual Studio 2022\C#\WpfInForm\WpfInForm\bin\Debug\WpfInForm.pdb
+C:\Users\m.maghrebi\Documents\Visual Studio 2022\C#\WpfInForm\WpfInForm\obj\Debug\WpfInForm.csproj.AssemblyReference.cache
+C:\Users\m.maghrebi\Documents\Visual Studio 2022\C#\WpfInForm\WpfInForm\obj\Debug\WpfInForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\m.maghrebi\Documents\Visual Studio 2022\C#\WpfInForm\WpfInForm\obj\Debug\UserControl1.g.cs
+C:\Users\m.maghrebi\Documents\Visual Studio 2022\C#\WpfInForm\WpfInForm\obj\Debug\WpfInForm_MarkupCompile.cache
+C:\Users\m.maghrebi\Documents\Visual Studio 2022\C#\WpfInForm\WpfInForm\obj\Debug\WpfInForm_MarkupCompile.lref
+C:\Users\m.maghrebi\Documents\Visual Studio 2022\C#\WpfInForm\WpfInForm\obj\Debug\UserControl1.baml
+C:\Users\m.maghrebi\Documents\Visual Studio 2022\C#\WpfInForm\WpfInForm\obj\Debug\WpfInForm.g.resources
+C:\Users\m.maghrebi\Documents\Visual Studio 2022\C#\WpfInForm\WpfInForm\obj\Debug\WpfInForm.Form1.resources
+C:\Users\m.maghrebi\Documents\Visual Studio 2022\C#\WpfInForm\WpfInForm\obj\Debug\WpfInForm.Properties.Resources.resources
+C:\Users\m.maghrebi\Documents\Visual Studio 2022\C#\WpfInForm\WpfInForm\obj\Debug\WpfInForm.csproj.GenerateResource.cache
+C:\Users\m.maghrebi\Documents\Visual Studio 2022\C#\WpfInForm\WpfInForm\obj\Debug\WpfInForm.csproj.CoreCompileInputs.cache
+C:\Users\m.maghrebi\Documents\Visual Studio 2022\C#\WpfInForm\WpfInForm\obj\Debug\WpfInForm.exe
+C:\Users\m.maghrebi\Documents\Visual Studio 2022\C#\WpfInForm\WpfInForm\obj\Debug\WpfInForm.pdb
